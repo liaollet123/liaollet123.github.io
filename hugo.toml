@@ -22,7 +22,5 @@ mainSections = ["posts"]
 [services]
   [services.x]
     disableInlineCSS = true
-
-[services]
   [services.googleAnalytics]
     ID = "G-N6P2W029GT"
