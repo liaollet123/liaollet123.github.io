@@ -86,3 +86,6 @@ fingerprintAlgorithm = "sha256"
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+[googleAnalytics]
+  id = "G-N6P2W029GT"
